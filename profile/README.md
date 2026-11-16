@@ -6,6 +6,8 @@
 
 We help small and midsize businesses across the United States fix what's slowing them down—whether that's a website, an internal workflow, or tools that don't talk to each other.
 
+**Your initial consultation is always free. Just contact us.**
+
 **[Visit our website](https://codeviewsolutions.com)** · **[Talk about a project](mailto:hello@codeviewsolutions.com)**
 
 ## What we do
@@ -21,4 +23,4 @@ We help small and midsize businesses across the United States fix what's slowing
 
 ---
 
-Have something in your way? Start with a free consultation: **[hello@codeviewsolutions.com](mailto:hello@codeviewsolutions.com)**.
+Have something in your way? Your initial consultation is always free: **[hello@codeviewsolutions.com](mailto:hello@codeviewsolutions.com)**.
