@@ -1,0 +1,5 @@
+{
+  "name": "CodeView Node CI",
+  "description": "Verify the CodeView Node.js and npm toolchain and run the project checks.",
+  "categories": ["JavaScript", "TypeScript"]
+}
